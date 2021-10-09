@@ -1,16 +1,18 @@
-• Tenho 15 anos;
+# My name's Bernardo, pleasure!
 
-• Votlado para web development;
+• I'm 15 old;
+
+• Learning web development;
 
 <!--- • Pretendo ser um programador backend; --->
 
-• Atualmente estou aprendendo / sei:
+• Skills (or almost this):
 - HTML
 - CSS
 - JavaScript
 - PHP
 
-• Se quiserem entrar em contato:
+• If want contact me:
 - fragacostabe@gmail.com (email)
 - be.fraga (Instagram)
 - Sceptalu#6691 (Discord)
