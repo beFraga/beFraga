@@ -1,6 +1,6 @@
 # My name's Bernardo, pleasure!
 
-• I'm 15 old;
+• I'm 15;
 
 • Learning web development;
 
