@@ -1,15 +1,19 @@
 • Tenho 15 anos;
-• Estou aprendendo web development;
-• Pretendo ser um programador backend;
+
+• Votlado para web development;
+
+<!--- • Pretendo ser um programador backend; --->
+
 • Atualmente estou aprendendo / sei:
-    - HTML
-    - CSS
-    - JavaScript
-    - PHP
+- HTML
+- CSS
+- JavaScript
+- PHP
+
 • Se quiserem entrar em contato:
-    - fragacostabe@gmail.com (email)
-    - be.fraga (Instagram)
-    - Sceptalu#6691 (Discord)
+- fragacostabe@gmail.com (email)
+- be.fraga (Instagram)
+- Sceptalu#6691 (Discord)
 
 <!---
 beFraga/beFraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
