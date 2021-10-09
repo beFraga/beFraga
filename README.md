@@ -14,7 +14,7 @@
 
 • If want contact me:
 - fragacostabe@gmail.com (email)
-- be.fraga (Instagram)
+- [be.fraga](https://instagram.com/be.fraga) (Instagram)
 - Sceptalu#6691 (Discord)
 
 <!---
