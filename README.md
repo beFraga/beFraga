@@ -25,6 +25,7 @@
   <a href = "mailto:fragacostabe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
+ ##
  <div align="center">
  <a href="https://animestk.com" target="_blank">AnimesTk - Site para assistir animes</a>
  <p>Feito com HTML, CSS, JavaScript e PHP</p>
