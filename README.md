@@ -27,5 +27,5 @@
 
  ##
  <div align="center">
- <a href="https://animestk.com" target="_blank">AnimesTk - Site para assistir animes</a>
- <p>Feito com HTML, CSS, JavaScript e PHP</p>
+ <a href="https://animestk.com" target="_blank">AnimesTk - Site to watch animes</a>
+ <p>Made with HTML, CSS, JavaScript and PHP</p>
