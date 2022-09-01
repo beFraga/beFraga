@@ -1,6 +1,6 @@
 # My name's Bernardo, pleasure!
 
-### I'm 15;
+### I'm 16;
 
 ### Learning web development;
 
@@ -26,6 +26,3 @@
  </div>
 
  ##
- <div align="center">
- <a href="https://animestk.com" target="_blank">AnimesTk - Site to watch animes</a>
- <p>Made with HTML, CSS, JavaScript and PHP</p>
