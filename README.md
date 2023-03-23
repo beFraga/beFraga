@@ -2,11 +2,11 @@
 
 ### I'm 16;
 
-### Learning web development;
+### Learning web development, Pygame and Data Science;
 
  
 <div align='center' >
-  <h3> Skills (or almost this) </h3>
+  <h3> Skills</h3>
   <img align="center" height="30" title='HTML5' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" title='CSS3' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" title='JavaScript' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
