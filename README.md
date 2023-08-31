@@ -1,8 +1,9 @@
-# My name's Bernardo, pleasure!
+# My name is Bernardo and started to development in 2021, but this year stopped my studies
 
-### I'm 16;
 
-### Learning web development, Pygame and Data Science;
+### I'm 17;
+
+### Learning web development and Data Science;
 
  
 <div align='center' >
