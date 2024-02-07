@@ -1,5 +1,6 @@
-# My name is Bernardo and started to development in 2021, but this year stopped my studies
+# Hi, there! 👋
 
+### My name is Bernardo and started to development over 2022
 
 ### I'm 17;
 
