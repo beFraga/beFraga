@@ -4,7 +4,7 @@
 
 ### I'm 17;
 
-### Learning web development and Data Science;
+### Learning web development and Computer Science;
 
  
 <div align='center' >
